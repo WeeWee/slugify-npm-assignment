@@ -1,0 +1,14 @@
+{
+	"name": "adamkindberg-slugify",
+	"version": "1.0.1",
+	"description": "slugifys text",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Adam Kindberg",
+	"license": "ISC",
+	"dependencies": {
+		"minuscule": "^1.0.0"
+	}
+}
